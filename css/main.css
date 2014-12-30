@@ -7,7 +7,10 @@
 	box-sizing: border-box;
 }
 body {
-	background: #31405F;
+	background: #2F3747;
+}
+.btn {
+	padding: 10px 20px;
 }
 .container {
 	width: 100%;
